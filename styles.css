@@ -1,0 +1,13 @@
+div.ez_fields div.row { margin-left: 0px; }
+div.ez_fields div.row:after { clear: both; }
+div.ez_fields div.row label { width: 100px; max-width: 100%; float: left; }
+div.ez_fields div.row input[type=text] { width: 200px; max-width: 100%; float: left; }
+
+div#easy_tags:after { clear: both; }
+div#easy_tags .ez_tag { width: 150px; max-width: 95%; float: left; margin-right: 12px; }
+div#easy_tags .ez_tag input[type=text] { max-width: 140px; }
+div#easy_tags .ez_before { width: 250px; max-width: 95%; float: left; margin-right: 12px; }
+div#easy_tags .ez_before input[type=text] { max-width: 240px; }
+div#easy_tags .ez_after { width: 250px; max-width: 95%; float: left; }
+div#easy_tags .ez_after input[type=text] { max-width: 240px; }
+div#easy_tags #easy_tag_list { clear: both; }

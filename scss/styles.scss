@@ -1,0 +1,54 @@
+div.ez_fields {
+    div.row {
+        margin-left: 0px;
+        &:after {
+            clear: both; 
+        }
+        label {
+            width: 100px;
+            max-width: 100%;
+            float: left; 
+        }
+        input[type=text] {
+            width: 200px;
+            max-width: 100%;
+            float: left;
+        }
+    }
+}
+
+div#easy_tags {
+    &:after {
+        clear: both; 
+        
+    }
+    .ez_tag {
+        width: 150px;
+        max-width: 95%;
+        float: left;
+        margin-right: 12px;
+        input[type=text] {
+            max-width: 140px;
+        }
+    }
+    .ez_before {
+        width: 250px;
+        max-width: 95%;
+        float: left;
+        margin-right: 12px;
+        input[type=text] {
+            max-width: 240px;
+        }
+    }
+    .ez_after {
+        width: 250px;
+        max-width: 95%;
+        float: left;
+        input[type=text] {
+            max-width: 240px;
+        }
+    }
+    #easy_tag_list {
+        clear: both; 
+    }
+}
