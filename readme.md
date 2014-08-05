@@ -18,7 +18,7 @@ When Moodle renders the page, it will output the following.
 `<span style="font-family: 'Courier New';">This is my text</span>`
 
 ### Help & Support ###
-You can find instructions on using this plugin at my [website](http://www.nutt.net/tag/easy-filter/).
+You can find instructions on using this plugin at my [website](http://www.nutt.net/).
 
-If you find an issue, please submit an issue at my [GitHub repository](http://github.com/RyanNutt).
+If you find an issue, please submit an issue at my [GitHub repository](https://github.com/RyanNutt/filter_easyfilter).
 
