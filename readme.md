@@ -21,7 +21,7 @@ When Moodle renders the page, it will output the following.
 ![](https://raw.githubusercontent.com/RyanNutt/filter_easyfilter/master/screenshots/settingsMenu.PNG)
 
 ### Help & Support ###
-You can find instructions on using this plugin at my [website](http://www.nutt.net/).
+You can find instructions on using this plugin at my [website](http://www.nutt.net/tag/easy-filter/).
 
 If you find an issue, please submit an issue at my [GitHub repository](https://github.com/RyanNutt/filter_easyfilter).
 
