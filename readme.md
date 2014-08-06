@@ -17,6 +17,9 @@ When Moodle renders the page, it will output the following.
 
 `<span style="font-family: 'Courier New';">This is my text</span>`
 
+### Screenshot ###
+![](https://raw.githubusercontent.com/RyanNutt/filter_easyfilter/master/screenshots/settingsMenu.PNG)
+
 ### Help & Support ###
 You can find instructions on using this plugin at my [website](http://www.nutt.net/).
 
